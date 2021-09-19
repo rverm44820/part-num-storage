@@ -1,0 +1,17 @@
+new,stuff
+toy,story
+see,ya
+you,can
+wow,me 
+hey bob,hey 
+ggg,ooo
+fff,gggg 
+nnnn,mmm 
+ppp,uuu 
+sss,ttt 
+fff,ggg 
+toy,story 
+hhh,bbb 
+vvv,ttt 
+555,timer 
+egg,timer 
